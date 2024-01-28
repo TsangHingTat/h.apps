@@ -9,7 +9,7 @@
     {
         "title": "Calculator",
         "identifier": "com.hingtattsang.calculator",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "category": "equal.circle",
         "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/calculator.txt"
     }
