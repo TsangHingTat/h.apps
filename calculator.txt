@@ -361,7 +361,13 @@ function calculate(num1, num2, operator){
 
 // function to clear box and reset everything
 function button_clear(){
-    window.location.reload()
+    box.innerText = '0';
+    last_operation_history.innerText = '';
+    operator_value = null;
+    firstNum = true;
+    numbers = [];
+    last_operator = null;
+    showSelectedOperator();
 }
 
 function backspace_remove(){
