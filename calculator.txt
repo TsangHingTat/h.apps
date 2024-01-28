@@ -3,7 +3,6 @@
 <html>
 <head>
     <Title>Calculator</title>
-    <link rel="stylesheet" type="text/css" href="assets/calc_style.css"/>
     <script language="JavaScript" src="code.js" type="text/javascript"></script>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <link rel="icon" type="image/png" href="assets/favicon.png"/>
@@ -74,7 +73,7 @@ button {
 }
 
 #backspace_btn {
-    background-image: url("../assets/back_remove.png");
+    background-image: url("https://raw.githubusercontent.com/TsangHingTat/h.apps/main/back_remove.png");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 1.7em;
