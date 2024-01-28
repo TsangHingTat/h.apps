@@ -1,33 +1,8 @@
-["Hello", "com.hingtattsang.hello", "globe", """
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: #282c35;
-            color: #61dafb;
-            font-family: 'Arial', sans-serif;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        h1 {
-            font-size: 3em;
-            text-align: center;
-            letter-spacing: 2px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        }
-    </style>
-    <title>Hello, World!</title>
-</head>
-<body>
-    <h1>Hello, World!</h1>
-</body>
-</html>
-"""]
-    ]
+[
+    {
+        "title": "Hello",
+        "identifier": "com.hingtattsang.hello",
+        "category": "globe",
+        "htmlContent": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>\nbody {\nbackground-color: #282c35;\ncolor: #61dafb;\nfont-family: 'Arial', sans-serif;\ndisplay: flex;\nalign-items: center;\njustify-content: center;\nheight: 100vh;\nmargin: 0;\n}\nh1 {\nfont-size: 3em;\ntext-align: center;\nletter-spacing: 2px;\ntext-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);\n}\n</style>\n<title>Hello, World!</title>\n</head>\n<body>\n<h1>Hello, World!</h1>\n</body>\n</html>"
+    }
+]
