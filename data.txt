@@ -14,10 +14,10 @@
         "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/calculator.txt"
     },
     {
-        "title": "ChatGPT",
-        "identifier": "com.openai.chatgpt",
+        "title": "2048",
+        "identifier": "com.2048-game.2048",
         "version": "1.0.0",
-        "category": "paintbrush.pointed.fill",
-        "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/chatgpt.txt"
+        "category": "8.square",
+        "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/2048.txt"
     }
 ]
