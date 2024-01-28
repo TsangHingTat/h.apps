@@ -10,14 +10,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <style>
-        body {
+body {
     font-size: 2.5vh;
     top: 15%;
     left: 40%;
     margin: 0 auto;
     background-color: black;
     font-family: 'Roboto', sans-serif;
+    overflow: hidden; /* Add this line to disable scrolling */
 }
+
 
 h1 {
     color: white;
@@ -99,7 +101,6 @@ button:hover {
 </head>
 <body>
     <div id="calculator">
-        <h1>Calculator</h1>
         <p id="last_operation_history"></p>
         <p id="box" class="box">0</p>
         <table id="table">
@@ -107,7 +108,7 @@ button:hover {
                 <td><button onclick="calculate_percentage()">%</button></td>
                 <td><button onclick="clear_entry()">CE</button></td>
                 <td><button onclick="button_clear()">C</button></td>
-                <td><button id="backspace_btn" onclick="backspace_remove()"></button></td>
+                <td><button id="backspace_btn" onclick="backspace_remove()">DEL</button></td>
             </tr>
             <tr>
                 <td><button onclick="division_one()">¹∕ₓ</button></td>
