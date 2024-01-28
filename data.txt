@@ -12,5 +12,12 @@
         "version": "1.0.1",
         "category": "equal.circle",
         "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/calculator.txt"
+    },
+    {
+        "title": "ChatGPT",
+        "identifier": "com.openai.chatgpt",
+        "version": "1.0.0",
+        "category": "paintbrush.pointed.fill",
+        "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/chatgpt.txt"
     }
 ]
