@@ -19,12 +19,5 @@
         "version": "1.0.0",
         "category": "8.square",
         "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/2048.txt"
-    },
-    {
-        "title": "CodeEdit",
-        "identifier": "com.hingtattsang.codeedit",
-        "version": "1.0.0",
-        "category": "pencil",
-        "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/codeedit.txt"
     }
 ]
