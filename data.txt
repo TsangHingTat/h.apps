@@ -26,12 +26,5 @@
         "version": "1.0.0",
         "category": "pencil",
         "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/codeedit.txt"
-    },
-    {
-        "title": "TimeTable",
-        "identifier": "com.hingtattsang.timetable",
-        "version": "1.0.0",
-        "category": "calendar",
-        "htmlContent": "https://raw.githubusercontent.com/TsangHingTat/h.apps/main/timetable.txt"
     }
 ]
